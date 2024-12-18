@@ -1,5 +1,14 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## API de Finanças Laravel
 
-## About Laravel
+**Descrição:**
+Esta API RESTful, desenvolvida em Laravel, oferece um backend completo para aplicações financeiras. Permite gerenciar transações, categorias e contas, proporcionando uma visão clara das suas finanças.
 
-This Rest API was made to compress a finance website that consists of storing all the money that goes in and out of your checking account. First project in this framework, which helped me learn the back end and showed me how everything works behind the scenes.
+**Tecnologias:**
+* Laravel
+* MySQL
+* PHPUnit
+
+**Instalação:**
+1. Clone este repositório:
+   ```bash
+   git clone 
